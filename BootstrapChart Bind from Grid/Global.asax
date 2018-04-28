@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="BootstrapChart_Bind_from_Grid.Global_asax" Language="C#" %>
